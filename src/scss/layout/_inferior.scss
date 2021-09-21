@@ -19,6 +19,12 @@
     }
 }
 
+.informacion-meta {
+    span {
+        color: $amarillo;
+        font-weight: $bold;
+    }  
+}
 .texto-entrada {
     a{
         color: $negro;
@@ -41,8 +47,5 @@
             background-color: $verde;
         }
     }
-    span {
-        color: $amarillo;
-        font-weight: $bold;
-    }
+
 }
