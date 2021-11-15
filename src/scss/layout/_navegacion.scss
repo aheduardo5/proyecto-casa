@@ -38,6 +38,7 @@
 .navegacion {
     visibility: hidden;
     opacity: 0;
+    height: 0;
     transition: visibility 500ms ease-in-out, opacity 0.5s linear;
     @include tablet {
         display: flex;
@@ -80,4 +81,5 @@
 .mostrar {
     visibility: visible;
     opacity: 1;
+    height: auto;
 }
