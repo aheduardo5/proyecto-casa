@@ -21,5 +21,13 @@
     }
   }
 
+  .texto-nosotros blockquote {
+    color: $blanco;
+  }
 
+  .formulario legend,
+  .formulario label,
+  .formulario p {
+    color: $blanco;
+  }
 }
