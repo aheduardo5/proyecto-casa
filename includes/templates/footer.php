@@ -8,5 +8,5 @@
             <a href="contacto.php">Contacto</a>
         </nav>
     </div>
-    <p class="copyright">Todos los Derechos Reservados 2021 &copy</p>
+    <p class="copyright">Todos los Derechos Reservados <?php echo date('Y') ?> &copy</p>
 </footer>
