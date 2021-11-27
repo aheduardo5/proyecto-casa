@@ -11,9 +11,9 @@
 
 <body>
 
-    <header class="header <?php echo isset( $inicio ) ? 'inicio': '' ?>">
+    <header class="header <?php echo $inicio  ? 'inicio': '' ?>">
         <div class="contenedor contenido-header">
-            <div class="barra">
+            <div class="barra"> 
                 <a href="/">
                     <img src="build/img/logo.svg" alt="Logotipo de Bienes Raices">
                 </a>
