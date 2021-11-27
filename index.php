@@ -201,7 +201,7 @@ incluirTemplate('header', $inicio = true);
 
 
 <?php
-    include 'includes/templates/footer.php';
+   incluirTemplate('footer');
 ?>
 
 

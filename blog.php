@@ -85,7 +85,7 @@ incluirTemplate('header');
 </main>
 
 <?php
-    include 'includes/templates/footer.php';
+    incluirTemplate('footer');
 ?>
 
 

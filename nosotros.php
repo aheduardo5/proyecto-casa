@@ -61,9 +61,8 @@ incluirTemplate('header');
 </section>
 
 <?php
-    include 'includes/templates/footer.php';
-?>
-
+    incluirTemplate('footer');
+?>  
 
 
 <script src="build/js/bundle.min.js"></script>
