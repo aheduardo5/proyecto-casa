@@ -205,8 +205,4 @@ incluirTemplate('header', $inicio = true);
 ?>
 
 
-
-<script src="build/js/bundle.min.js"></script>
 </body>
-
-</html>
